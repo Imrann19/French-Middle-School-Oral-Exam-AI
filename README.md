@@ -6,7 +6,5 @@ Topic: Artificial Intelligence and future jobs
 Imrann ASEERVATHAM – 3e, Collège des Touleuses
 
 ## Files
-- `presentation.pdf` – My final slides
-- `discours.txt` – My speech (French & English)
-- `questions-reponses.txt` – Practice Q&A
+- `ASEERVATHAM_Imrann_3B-5-1.pdf – My final slides
 - `README.md` – This file
