@@ -1,10 +1,11 @@
+# Brevet Oral – L'intelligence artificielle et les métiers du futur  
 # Brevet Oral – Artificial Intelligence and the Jobs of Tomorrow
 
-Presentation for my final oral exam (French Brevet)  
-Topic: Artificial Intelligence and future jobs
+Présentation pour l'oral du Diplôme National du Brevet (DNB)  
+Presentation for the French Brevet final oral exam
 
 Imrann ASEERVATHAM – 3e, Collège des Touleuses
 
-## Files
-- `ASEERVATHAM_Imrann_3B-5-1.pdf – My final slides
-- `README.md` – This file
+## 📁 Fichiers / Files
+- `ASEERVATHAM_Imrann_3B-5-1` – Diaporama  / slides  
+- `README.md` – Ce fichier / This file
